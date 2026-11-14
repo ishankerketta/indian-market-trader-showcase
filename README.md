@@ -132,10 +132,6 @@ Installation instructions come with your purchase. See **[docs/getting-started.m
 - [Sample output: one trade, step by step](examples/sample-output.md)
 - [Changelog](CHANGELOG.md)
 
-## Support
-
-[Support contact, added after publication]
-
 ## Please read
 
 - **This is not investment advice.** It is software that reads public data and does arithmetic on rules you choose. It is not a SEBI-registered investment adviser or research analyst.

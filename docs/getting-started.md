@@ -33,7 +33,3 @@ The first time you plan a trade, Claude asks for your capital, your loss limits 
 ## 4. Connecting a broker (optional)
 
 Connecting a broker is optional. You log in yourself in a terminal prompt, so your password, PIN and API secret are never typed into the chat. Broker sessions usually expire each trading day, so you log in again each day. See [Privacy and security](privacy-and-security.md) and the [compatibility table](../README.md#requirements-and-compatibility) for which brokers have been tested.
-
-## Need help?
-
-[Support contact, added after publication]

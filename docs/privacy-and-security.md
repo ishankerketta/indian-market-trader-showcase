@@ -42,7 +42,3 @@ If you connect a broker, the skills also talk to that broker's official API.
 
 - We do not claim that "your data never leaves your device". Your Claude conversation, data downloads and broker API calls all involve outside services.
 - These security measures have not been independently audited.
-
-## Reporting a security issue
-
-[Security contact, added after publication]

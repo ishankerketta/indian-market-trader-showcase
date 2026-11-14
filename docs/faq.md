@@ -51,8 +51,5 @@ Under SEBI rules, brokers may accept API orders only from an internet address (I
 ### How are updates delivered?
 Updates are delivered through Agensi. See the [changelog](../CHANGELOG.md) for public release notes.
 
-### How do I get support?
-[Support contact, added after publication]
-
 ### Can I get the code from this repository?
 No. This repository is only a showcase. The product is available through the Agensi listing: [Indian Market Trader on Agensi](https://www.agensi.io/skills/indian-market-trader).
