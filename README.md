@@ -2,7 +2,7 @@
 
 **Do your homework before you trade. An AI assistant for intraday trading on the NSE, built as a pack of Claude skills.**
 
-> **This is a public showcase.** It describes the product and shows real sample output. It does **not** contain the skills, their instructions, scripts or any other part of the paid product. The official version is available through Agensi: **[Agensi listing URL, added after publication]**.
+> **This is a public showcase.** It describes the product and shows real sample output. It does **not** contain the skills, their instructions, scripts or any other part of the paid product. The official version is available through Agensi: **[Indian Market Trader on Agensi](https://www.agensi.io/skills/indian-market-trader)**.
 
 <p align="center"><img src="assets/screenshots/01-market-pulse.png" alt="Market pulse output: NIFTY, BANK NIFTY, SENSEX and India VIX, trend regime, FII/DII flows, sector leaders and laggards, breadth and the next NSE holiday" width="90%"></p>
 
@@ -119,7 +119,7 @@ Notes:
 
 The official, supported version of Indian Market Trader is sold through **Agensi**:
 
-**→ [Agensi listing URL, added after publication]**
+**→ [Indian Market Trader on Agensi](https://www.agensi.io/skills/indian-market-trader)**
 
 Installation instructions come with your purchase. See **[docs/getting-started.md](docs/getting-started.md)** for what to expect.
 

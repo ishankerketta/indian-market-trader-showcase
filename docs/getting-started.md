@@ -6,7 +6,7 @@ The official version of Indian Market Trader is available **only** through its A
 
 Go to the Agensi listing and complete your purchase there:
 
-**→ [Agensi listing URL, added after publication]**
+**→ [Indian Market Trader on Agensi](https://www.agensi.io/skills/indian-market-trader)**
 
 After you buy, follow the installation instructions that come with your purchase. They are the supported way to install the skills.
 
